@@ -15,5 +15,3 @@ fredericohallamman
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericohallamman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericohallamman&layout=compact&langs_count=4&theme=github_dark"/>
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericohallamman)](https://github.com/fredericohallamman/github-readme-stats&langs_count=4&layout=compact&theme=github_dark)
